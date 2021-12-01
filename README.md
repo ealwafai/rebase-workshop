@@ -3,7 +3,6 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * Recommended modules
  * Installation
  * Configuration
  * Troubleshooting
